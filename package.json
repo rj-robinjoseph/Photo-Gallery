@@ -41,9 +41,7 @@
     "url": "git+https://github.com/rj-robinjoseph/Photo-Gallery.git"
   },
   "author": "Robin Joseph",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rj-robinjoseph/Photo-Gallery/issues"
-  },
-  "homepage": "https://github.com/rj-robinjoseph/Photo-Gallery#readme"
+  "license": "ISC"
+  
+
 }
